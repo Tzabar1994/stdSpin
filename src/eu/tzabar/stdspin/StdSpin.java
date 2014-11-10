@@ -9,5 +9,6 @@ public class StdSpin
     public static void main(String[] args)
     {
         System.out.println("Test, this is");
+        System.out.println("This is also a test line");
     }
 }
